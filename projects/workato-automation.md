@@ -6,6 +6,10 @@ permalink: /projects/workato-automation/
 
 <h1>📡 Telco Fault Alert Automation with Workato</h1>
 
+<p style="font-style: italic; color: #555;">
+GBA Grade: <strong>A</strong> | ANL555 – Data Integration for Enterprise Automation (SUSS)
+</p>
+
 <p>
 This project was developed as part of the <strong>ANL555 Data Integration for Enterprise Automation</strong> course. 
 It demonstrates a complete automation of telco fault detection and proactive customer notifications using 
