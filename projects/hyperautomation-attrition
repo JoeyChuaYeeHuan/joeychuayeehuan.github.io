@@ -7,7 +7,7 @@ permalink: /projects/hyperautomation-attrition/
 <h1>👥 Employee Attrition Management with Hyperautomation</h1>
 
 <p>
-This project was completed as part of the <strong>ANL505 Hyperautomation</strong> module at SUSS. It demonstrates a comprehensive hyperautomation solution designed to detect, manage, and reduce employee attrition using <strong>UiPath Automation Cloud, Tableau, JoyForm, Asana, and Google Sheets</strong>. The project was graded with a <strong>score of 90/100</strong>.
+This project was completed as part of the <strong>ANL505 Hyperautomation</strong> module at SUSS. It demonstrates a comprehensive hyperautomation solution designed to detect, manage, and reduce employee attrition using <strong>UiPath Automation Cloud, Tableau, JoyForm, Asana, and Google Sheets</strong>. I achieved a final grade <strong>of A-</strong>.
 </p>
 
 <hr>
@@ -53,7 +53,8 @@ To develop a scalable, low-code automation solution that monitors employee attri
 <img src="{{ site.baseurl }}/assets/images/google_sheets_response.png" alt="Survey Responses" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
 
 <h3>4. Tableau: Attrition Risk Visualizations</h3>
-<img src="{{ site.baseurl }}/assets/images/tableau_attrition_charts.png" alt="Tableau Dashboards" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
+<img src="{{ site.baseurl }}/assets/images/tableau_attrition_charts1.png" alt="Tableau Dashboards" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
+<img src="{{ site.baseurl }}/assets/images/tableau_attrition_charts2.png" alt="Tableau Dashboards" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
 
 <h3>5. Asana: Automation Project Schedule</h3>
 <img src="{{ site.baseurl }}/assets/images/asana_timeline.png" alt="Asana Timeline" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
