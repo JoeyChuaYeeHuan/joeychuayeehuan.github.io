@@ -16,6 +16,11 @@ permalink: /projects/
   padding: 1rem;
   background-color: #f9f9f9;
 }
+.project-card a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
 .project-card a img {
   width: 100%;
   height: auto;
@@ -40,10 +45,10 @@ permalink: /projects/
   background-color: #007bff;
   color: white;
   border-radius: 5px;
-  text-decoration: none;
   font-weight: bold;
+  text-align: center;
 }
-.view-button:hover {
+.project-card a:hover .view-button {
   background-color: #0056b3;
 }
 </style>
@@ -54,45 +59,46 @@ permalink: /projects/
 <div class="project-card">
   <a href="{{ site.baseurl }}/projects/tourism-forecast/">
     <img src="{{ site.baseurl }}/assets/images/tourism_forecast.png" alt="">
+    <div class="project-title">Forecasting International Tourism with R</div>
+    <div class="project-tools">Tools: R, ggplot2, forecast, tseries, tidyverse</div>
+    <p>
+      I conducted time series analysis to forecast international tourism arrivals in Europe & Central Asia, analyzing the economic impact of COVID-19.
+      Models used include ETS (e.g., Winters method), ARIMA, moving average, and linear regression. I also performed residual diagnostics, 
+      stationarity checks (ADF test), and compared model accuracy using MAPE, MAD, MSD, and AIC.
+    </p>
+    <div class="view-button">View Plots & Details</div>
   </a>
-  <div class="project-title">Forecasting International Tourism with R</div>
-  <div class="project-tools">Tools: R, ggplot2, forecast, tseries, tidyverse</div>
-  <p>
-    I conducted time series analysis to forecast international tourism arrivals in Europe & Central Asia, analyzing the economic impact of COVID-19.
-    Models used include ETS (e.g., Winters method), ARIMA, moving average, and linear regression. I also performed residual diagnostics, 
-    stationarity checks (ADF test), and compared model accuracy using MAPE, MAD, MSD, and AIC.
-  </p>
-  <a href="{{ site.baseurl }}/projects/tourism-forecast/" class="view-button">View Plots & Details</a>
 </div>
 
 <!-- Workato Automation -->
 <div class="project-card">
   <a href="{{ site.baseurl }}/projects/workato-automation/">
     <img src="{{ site.baseurl }}/assets/images/workato_automation.png" alt="">
+    <div class="project-title">Automating Telco Fault Alerts with Workato</div>
+    <div class="project-tools">Tools: Workato, Google Sheets, Salesforce, GenAI, Telegram</div>
+    <p>
+      Built a GenAI-integrated customer support automation pipeline as part of a telco solution. This included ingesting fault data from Amdocs,
+      storing it in a data lake (Google Sheets), generating alerts via GenAI, and pushing notifications to users through Telegram. 
+      Demonstrated real-time integration across CRM and support channels.
+    </p>
+    <div class="view-button">View Demo & Details</div>
   </a>
-  <div class="project-title">Automating Telco Fault Alerts with Workato</div>
-  <div class="project-tools">Tools: Workato, Google Sheets, Salesforce, GenAI, Telegram</div>
-  <p>
-    Built a GenAI-integrated customer support automation pipeline as part of a telco solution. This included ingesting fault data from Amdocs,
-    storing it in a data lake (Google Sheets), generating alerts via GenAI, and pushing notifications to users through Telegram. 
-    Demonstrated real-time integration across CRM and support channels.
-  </p>
-  <a href="{{ site.baseurl }}/projects/workato-automation/" class="view-button">View Demo & Details</a>
 </div>
 
 <!-- UiPath RPA -->
 <div class="project-card">
   <a href="{{ site.baseurl }}/projects/uipath-rpa/">
     <img src="{{ site.baseurl }}/assets/images/uipath_rpa.png" alt="">
+    <div class="project-title">Customer Service Workflow Automation in UiPath</div>
+    <div class="project-tools">Tools: UiPath Studio, Excel, Outlook, Decision Tree Logic</div>
+    <p>
+      Designed a UiPath robot to automate triaging of customer support tickets. The bot reads email cases, applies logic to determine urgency,
+      and routes them accordingly — reducing manual sorting and improving response times. 
+      I created a reusable automation flow and tested it with mock data.
+    </p>
+    <div class="view-button">View Logic & Details</div>
   </a>
-  <div class="project-title">Customer Service Workflow Automation in UiPath</div>
-  <div class="project-tools">Tools: UiPath Studio, Excel, Outlook, Decision Tree Logic</div>
-  <p>
-    Designed a UiPath robot to automate triaging of customer support tickets. The bot reads email cases, applies logic to determine urgency,
-    and routes them accordingly — reducing manual sorting and improving response times. 
-    I created a reusable automation flow and tested it with mock data.
-  </p>
-  <a href="{{ site.baseurl }}/projects/uipath-rpa/" class="view-button">View Logic & Details</a>
 </div>
 
 </div>
+
