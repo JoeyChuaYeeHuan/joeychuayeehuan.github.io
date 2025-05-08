@@ -7,7 +7,7 @@ permalink: /projects/tourism-forecast/
 <h1>✈️ Forecasting International Tourism in Europe & Central Asia </h1>
 
 <p style="font-style: italic; color: #555;">
-Final Grade: <strong>not released yet</strong | ANL557 – Applied Forecasting (SUSS)
+Final Grade: <strong>not released</strong> | ANL557 – Applied Forecasting (SUSS)
 </p>
 
 <p>This project was developed as part of the <strong>ANL557 Applied Forecasting</strong> module. This assignment analyzed and forecasted international tourism arrivals in the Europe and Central Asia region, with a focus on understanding the disruptions caused by the COVID-19 pandemic and estimating the recovery trajectory through 2024, leveraging on <strong>R Programming</strong>.</p>
