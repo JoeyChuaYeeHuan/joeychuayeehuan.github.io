@@ -2,9 +2,9 @@
 
 **Analytics Educator | Digital Skills for Future-Ready Learners**
 
-Welcome to my teaching portfolio for NYP School of Business Management.
+Welcome to my teaching portfolio for NYP, School of Business Management (SBM).
 
-I specialize in applied learning using R, Python, and automation tools to prepare PET learners for real-world digital challenges in business and analytics.
+I specialize in applied learning using R, Python, SQL, and automation tools (e.g., UiPath, Workato) to prepare PET learners for real-world digital challenges in business and analytics.
 
 ---
 
@@ -27,11 +27,11 @@ Explore how I bring real-world digital skills into the classroom:
     I believe polytechnic education must bridge the gap between theory and industry practice — equipping students with skills that are immediately applicable and adaptable to change.
   </p>
   <p>
-    I strive to create a learning environment where students build business intuition through data and automation tools like Excel, Power BI, SQL, UiPath, and Workato. 
-    Beyond technical proficiency, I guide learners to apply structured thinking and real-world context — from managing digital workflows to visualising customer trends.
+    I strive to create a learning environment where students build business intuition through data and automation tools like Excel, SQL, UiPath, and Workato. 
+    Beyond technical proficiency, I guide learners to apply structured thinking and real-world context — from managing digital workflows to visualizing customer trends.
   </p>
   <p>
-    I also advocate for the digitalisation of academic processes, having integrated tools like Google Sheets, Tableau, and UiPath in my own applied projects to reduce manual effort and improve data accuracy.
+    I also advocate for the digitalization of academic processes, having integrated tools like Google Sheets, Tableau, and UiPath in my personal applied projects to reduce manual effort and improve data accuracy.
   </p>
   <p>
     My goal is to mentor students into future-ready professionals who don’t just follow business processes — but improve them.
@@ -49,7 +49,7 @@ Explore how I bring real-world digital skills into the classroom:
     and attrition analysis with UiPath, Google Sheets, Tableau, and Asana.
   </p>
   <p>
-    I hold a strong grounding in business and IT, with practical skills in Excel, SQL, Power BI, and Python/R — and have applied them in multiple high-distinction academic projects. 
+    I hold a strong grounding in business and IT, with practical skills in Excel, SQL, Python Programming, and R programming — and have applied them in multiple high-distinction academic projects. 
     I also believe in transforming academic operations and have designed digital workflows to streamline survey management, case triaging, and CRM notifications.
   </p>
   <p>
