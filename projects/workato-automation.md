@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workato Automation: Telco Fault Alerts
+title: "Workato Automation: Telco Fault Alerts"
 permalink: /projects/workato-automation/
 ---
 
