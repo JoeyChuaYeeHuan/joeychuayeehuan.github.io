@@ -6,7 +6,7 @@ permalink: /projects/tourism-forecast/
 
 <h1>✈️ Forecasting International Tourism in Europe & Central Asia </h1>
 
-<p>This project analyzed and forecasted international tourism arrivals in the Europe and Central Asia region, with a focus on understanding the disruptions caused by the COVID-19 pandemic and estimating the recovery trajectory through 2024.</p>
+<p>This project was conducted as part of the ANL557 module. This assignment analyzed and forecasted international tourism arrivals in the Europe and Central Asia region, with a focus on understanding the disruptions caused by the COVID-19 pandemic and estimating the recovery trajectory through 2024.</p>
 
 <hr>
 
