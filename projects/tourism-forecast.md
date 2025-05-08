@@ -67,17 +67,7 @@ Final Grade: <strong>not released yet</strong | ANL557 – Applied Forecasting (
 <h2>📌 Summary of Results</h2>
 <ul>
   <li><strong>ARIMA (1,2,1)</strong> was the best-performing model, achieving the lowest MAPE (1.44%) and AIC (1462.36), making it the most accurate and efficient choice for short-term forecasting.</li>
-  <li><strong>DES (Double Exponential Smoothing)</strong> handled both level and trend effectively, with a MAPE of 1.58% and AIC of 1578.13. It forecasted 1.22B and 1.24B arrivals for 2023 and 2024 respectively.</li>
-  <li><strong>SES (Simple Exponential Smoothing)</strong> performed well in terms of short-term level tracking (MAPE = 1.96%) but failed to account for long-term upward trends, producing flat forecasts.</li>
   <li>All three models were evaluated using residual diagnostics (ACF/PACF, QQ plots, Ljung-Box, Shapiro-Wilk), confirming that ARIMA had the most well-behaved residuals with minimal autocorrelation.</li>
-  <li>2023 forecast accuracy was strong across all models when compared with actual data:
-    <ul>
-      <li><strong>SES:</strong> 0% APE (predicted 2023 exactly due to flat trend assumption)</li>
-      <li><strong>DES:</strong> 1.66% APE</li>
-      <li><strong>ARIMA:</strong> 1.00% APE</li>
-    </ul>
-  </li>
-</ul>
 
 <h2>✅ Conclusion</h2>
 <p>
