@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hyperautomation: Employee Attrition Management
+title: "Hyperautomation: Employee Attrition Management"
 permalink: /projects/hyperautomation-attrition/
 ---
 
