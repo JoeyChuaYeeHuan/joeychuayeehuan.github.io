@@ -37,8 +37,6 @@ To develop a scalable, low-code automation solution that monitors employee attri
   <li>📅 Asana manages the project lifecycle and assigns roles & timelines</li>
 </ul>
 
-<img src="{{ site.baseurl }}/assets/images/attrition_workflow.png" alt="Attrition Automation Workflow" style="width:100%; max-width:900px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
-
 <hr>
 
 <h2>📸 Screenshots</h2>
