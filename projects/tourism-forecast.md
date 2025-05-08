@@ -47,6 +47,10 @@ permalink: /projects/tourism-forecast/
 <img src="{{ site.baseurl }}/assets/images/Rplot%2030.png" alt="Time Series Plot of DES Residuals" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
 <img src="{{ site.baseurl }}/assets/images/Rplot%2038.png" alt="Time Series Plot of Auto ARIMA Residuals" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
 
+<h3>5. Auto ARIMA Residuals</h3>
+<img src="{{ site.baseurl }}/assets/images/Rplot%2036.png" alt="ACF Auto ARIMA Residuals Plot" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+<img src="{{ site.baseurl }}/assets/images/Rplot%2037.png" alt="PACF Auto ARIMA Residuals Plot" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+
 <hr>
 
 <h2>📈 Key Findings</h2>
