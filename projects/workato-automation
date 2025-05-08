@@ -46,7 +46,27 @@ and notify them in real-time through appropriate channels. CRM data from Salesfo
   <li><strong>Recipe 4 & 5:</strong> Combine Salesforce and Amdocs CRM records into a consolidated customer data lake (Sheet 5)</li>
 </ul>
 
-<img src="{{ site.baseurl }}/assets/images/workato_recipe_flow.png" alt="Recipe Flow" style="width:100%; max-width:900px; margin-bottom:20px; border-radius: 8px;">
+<img src="{{ site.baseurl }}/assets/images/Workato%20Workflow.png" alt="Recipe Flow" style="width:100%; max-width:900px; margin-bottom:20px; border-radius: 8px;">
+
+<hr>
+
+<h2>📸 Workato Alert Showcase</h2>
+<p>A visual walkthrough of our fault alert generation, powered by AI-driven message prompts and automated delivery.</p>
+
+<h3>1. Mistral AI Prompt – Broadband Fault Alert (Telegram)</h3>
+<img src="{{ site.baseurl }}/assets/images/Content1.png" alt="Broadband alert prompt" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
+
+<h3>2. Mistral AI Prompt – Mobile Fault Alert (Email)</h3>
+<img src="{{ site.baseurl }}/assets/images/Content2.png" alt="Mobile alert prompt" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
+
+<h3>3. Workato-Generated Email Preview</h3>
+<img src="{{ site.baseurl }}/assets/images/Email%20Alert.png" alt="Email preview" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
+
+<h3>4. Received Email – Mobile Disruption</h3>
+<img src="{{ site.baseurl }}/assets/images/Email%20Received.png" alt="Received email" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
+
+<h3>5. Telegram Alert – Broadband Disruption</h3>
+<img src="{{ site.baseurl }}/assets/images/Telegram%20Alert.png" alt="Telegram alert" style="width:100%; max-width:800px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
 
 <hr>
 
