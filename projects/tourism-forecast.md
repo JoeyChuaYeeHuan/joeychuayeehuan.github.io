@@ -39,7 +39,7 @@ permalink: /projects/tourism-forecast/
 <img src="{{ site.baseurl }}/assets/images/Rplot%2010.png" alt="SES Forecast" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
 <img src="{{ site.baseurl }}/assets/images/Rplot%2012.png" alt="DES Forecast" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
 
-<h3>3. Auto-ARIMA Residual Diagnostics</h3>
+<h3>3. Auto-ARIMA Forecast</h3>
 <img src="{{ site.baseurl }}/assets/images/Rplot%2014.png" alt="ARIMA Residuals" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
 
 <h3>4. Model Accuracy Comparison</h3>
