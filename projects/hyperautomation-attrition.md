@@ -70,4 +70,9 @@ To develop a scalable, low-code automation solution that monitors employee attri
 
 <h2>✅ Conclusion</h2>
 <p>
-This project demonstrates how low-code tools and enterprise automation platforms can work together to solve real HR problems. It shows how integrating
+This project demonstrates how low-code tools and enterprise automation platforms can work together to solve real HR problems. It shows how integrating survey automation, data orchestration, and real-time analytics enables HR departments to act proactively, reduce turnover, and create a more engaged workforce.
+</p>
+
+<p>
+  <a href="{{ site.baseurl }}/projects/" style="display:inline-block; margin-top:30px; background-color:#007bff; color:white; padding:10px 20px; border-radius:6px; text-decoration:none;">⬅ Back to Projects</a>
+</p>
