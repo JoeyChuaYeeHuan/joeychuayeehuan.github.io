@@ -1,0 +1,78 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+<style>
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1rem;
+  background-color: #f9f9f9;
+}
+.project-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+}
+.project-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+.project-tools {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+</style>
+
+<div class="project-grid">
+
+<!-- Tourism Forecasting -->
+<div class="project-card">
+  <img src="Rplot 15.png" alt="Tourism Forecasting Graph">
+  <div class="project-title">Forecasting International Tourism with R</div>
+  <div class="project-tools">Tools: R, ggplot2, forecast, tseries, tidyverse</div>
+  <p>
+    I conducted time series analysis to forecast international tourism arrivals in Europe & Central Asia, analyzing the economic impact of COVID-19.
+    Models used include ETS (e.g., Winters method), ARIMA, moving average, and linear regression. I also performed residual diagnostics, 
+    stationarity checks (ADF test), and compared model accuracy using MAPE, MAD, MSD, and AIC.
+  </p>
+  <p><em>Screenshots shown only; full report available upon request.</em></p>
+</div>
+
+<!-- Workato Automation -->
+<div class="project-card">
+  <img src="/assets/images/workato_automation.png" alt="Workato Recipe Screenshot">
+  <div class="project-title">Automating Telco Fault Alerts with Workato</div>
+  <div class="project-tools">Tools: Workato, Google Sheets, Salesforce, GenAI, Telegram</div>
+  <p>
+    Built a GenAI-integrated customer support automation pipeline as part of a telco solution. This included ingesting fault data from Amdocs,
+    storing it in a data lake (Google Sheets), generating alerts via GenAI, and pushing notifications to users through Telegram. 
+    Demonstrated real-time integration across CRM and support channels.
+  </p>
+  <p><em>Demo available upon request or during interview.</em></p>
+</div>
+
+<!-- UiPath RPA -->
+<div class="project-card">
+  <img src="/assets/images/uipath_rpa.png" alt="UiPath Flowchart Screenshot">
+  <div class="project-title">Customer Service Workflow Automation in UiPath</div>
+  <div class="project-tools">Tools: UiPath Studio, Excel, Outlook, Decision Tree Logic</div>
+  <p>
+    Designed a UiPath robot to automate triaging of customer support tickets. The bot reads email cases, applies logic to determine urgency,
+    and routes them accordingly — reducing manual sorting and improving response times. 
+    I created a reusable automation flow and tested it with mock data.
+  </p>
+  <p><em>Screenshots only; logic file available upon request.</em></p>
+</div>
+
+</div>
