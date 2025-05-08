@@ -56,11 +56,27 @@ permalink: /projects/tourism-forecast/
   <li>Residual diagnostics confirmed <strong>statistical reliability</strong> of the models.</li>
 </ul>
 
+<h2>📌 Summary of Results</h2>
+<ul>
+  <li><strong>ARIMA (1,2,1)</strong> was the best-performing model, achieving the lowest MAPE (1.44%) and AIC (1462.36), making it the most accurate and efficient choice for short-term forecasting.</li>
+  <li><strong>DES (Double Exponential Smoothing)</strong> handled both level and trend effectively, with a MAPE of 1.58% and AIC of 1578.13. It forecasted 1.22B and 1.24B arrivals for 2023 and 2024 respectively.</li>
+  <li><strong>SES (Simple Exponential Smoothing)</strong> performed well in terms of short-term level tracking (MAPE = 1.96%) but failed to account for long-term upward trends, producing flat forecasts.</li>
+  <li>All three models were evaluated using residual diagnostics (ACF/PACF, QQ plots, Ljung-Box, Shapiro-Wilk), confirming that ARIMA had the most well-behaved residuals with minimal autocorrelation.</li>
+  <li>2023 forecast accuracy was strong across all models when compared with actual data:
+    <ul>
+      <li><strong>SES:</strong> 0% APE (predicted 2023 exactly due to flat trend assumption)</li>
+      <li><strong>DES:</strong> 1.66% APE</li>
+      <li><strong>ARIMA:</strong> 1.00% APE</li>
+    </ul>
+  </li>
+</ul>
+
 <h2>✅ Conclusion</h2>
 <p>
-  The project illustrates the strength of time series forecasting in real-world applications, particularly in helping stakeholders anticipate recovery trends in tourism. It supports evidence-based planning in the post-COVID context for Europe and Central Asia.
+  The project illustrates the strength of time series forecasting in real-world applications, particularly in helping stakeholders anticipate recovery trends in tourism. Auto ARIMA outperformed other models in forecasting accuracy, capturing both level and trend components while adapting to residual structures. DES was a close second and preferable when interpretability is prioritized. SES, while easy to implement, lacked the complexity needed for a strongly trending series.
 </p>
 
 <p>
   <a href="{{ site.baseurl }}/projects/" style="display:inline-block; margin-top:30px; background-color:#007bff; color:white; padding:10px 20px; border-radius:6px; text-decoration:none;">⬅ Back to Projects</a>
 </p>
+
