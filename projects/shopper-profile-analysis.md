@@ -34,7 +34,7 @@ To clean, validate, and analyze survey data collected from multiple shopping mal
 <h2>📊 Dashboard Overview</h2>
 <p>The following combined plot summarizes shopper distribution by gender, race, age group, and store popularity across all surveyed malls:</p>
 
-<img src="{{ site.baseurl }}/assets/images/Combined_Plot.png" alt="Combined Shopper Profile Dashboard" style="width:100%; max-width:900px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
+<img src="{{ site.baseurl }}/assets/images/combined_plot.png" alt="Combined Shopper Profile Dashboard" style="width:100%; max-width:900px; margin-bottom:20px; border-radius: 8px; border: 1px solid #ccc;">
 
 <hr>
 
