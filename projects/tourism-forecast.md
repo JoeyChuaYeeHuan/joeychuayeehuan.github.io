@@ -32,14 +32,20 @@ permalink: /projects/tourism-forecast/
 
 <h2>📊 Key Visualizations</h2>
 
-<h3>1. ETS (Holt-Winters) Forecast</h3>
-<img src="{{ site.baseurl }}/assets/images/ets_forecast.png" alt="ETS Forecast" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+<h3>1. Moving Average Forecast</h3>
+<img src="{{ site.baseurl }}/assets/images/Rplot_9.png" alt="Moving Average Forecast" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
 
-<h3>2. Auto-ARIMA Residual Diagnostics</h3>
-<img src="{{ site.baseurl }}/assets/images/arima_residuals.png" alt="ARIMA Residuals" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+<h3>2. ETS (SES, DES and Winters') Forecast</h3>
+<img src="{{ site.baseurl }}/assets/images/Rplot_10.png" alt="SES Forecast" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+<img src="{{ site.baseurl }}/assets/images/Rplot_12.png" alt="DES Forecast" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
 
-<h3>3. Model Accuracy Comparison</h3>
-<img src="{{ site.baseurl }}/assets/images/model_accuracy.png" alt="Model Accuracy Comparison" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+<h3>3. Auto-ARIMA Residual Diagnostics</h3>
+<img src="{{ site.baseurl }}/assets/images/Rplot_14.png" alt="ARIMA Residuals" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+
+<h3>4. Model Accuracy Comparison</h3>
+<img src="{{ site.baseurl }}/assets/images/Rplot_22.png" alt="Time Series Plot of SES Residuals" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+<img src="{{ site.baseurl }}/assets/images/Rplot_30.png" alt="Time Series Plot of DES Residuals" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
+<img src="{{ site.baseurl }}/assets/images/Rplot_38.png" alt="Time Series Plot of Auto ARIMA Residuals" style="width:100%; max-width:800px; margin-bottom:20px; border: 1px solid #ccc; border-radius: 8px;">
 
 <hr>
 
