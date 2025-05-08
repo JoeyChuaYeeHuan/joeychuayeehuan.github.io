@@ -6,6 +6,10 @@ permalink: /projects/hyperautomation-attrition/
 
 <h1>👥 Employee Attrition Management with Hyperautomation</h1>
 
+<p style="font-style: italic; color: #555;">
+Final Grade: <strong>A-</strong> | ANL505 – Hyperautomation (SUSS)
+</p>
+
 <p>
 This project was completed as part of the <strong>ANL505 Hyperautomation</strong> module at SUSS. It demonstrates a comprehensive hyperautomation solution designed to detect, manage, and reduce employee attrition using <strong>UiPath Automation Cloud, Tableau, JoyForm, Asana, and Google Sheets</strong>. I achieved a final grade <strong>of A-</strong>.
 </p>
