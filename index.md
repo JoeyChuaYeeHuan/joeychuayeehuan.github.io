@@ -1,10 +1,16 @@
 # Joey Chua Yee Huan – Teaching Portfolio
 
-Welcome to my digital showcase for NYP School of Business Management.
+**Analytics Educator | Digital Skills for Future-Ready Learners**
 
-## Highlights
+Welcome to my teaching portfolio for NYP School of Business Management.
+
+I specialize in applied learning using R, Python, and automation tools to prepare PET learners for real-world digital challenges in business and analytics.
+
+## 🔍 Highlights
 - 📊 [Analytics Project Showcase](https://joeychuayeehuan.github.io/ANL501-ECA_Project/)
 - 📚 Sample curriculum on digital skills integration
 - 🧠 Ideas to future-proof PET learners with data & AI
 
-Stay tuned for more!
+Explore how I bring real-world digital skills into the classroom:
+👉 [Projects](projects.html) | [Teaching Vision](teaching.html) | [About Me](about.html)
+
