@@ -48,10 +48,10 @@ To clean, validate, and analyze survey data collected from multiple shopping mal
 
 <h2>📈 Key Insights</h2>
 <ul>
-  <li>👩 Female shoppers dominated the footfall in 4 out of 6 malls; two were gender-balanced.</li>
-  <li>🧒 Majority age group was between 21–35, indicating a youthful shopping demographic.</li>
-  <li>🇸🇬 Most malls had >85% Singapore citizens, except Mall 4 with notable foreign presence.</li>
-  <li>🏪 Popular stores differed by mall, revealing localized shopper preferences.</li>
+  <li>🧍‍♀️ <strong>Gender Distribution:</strong> Jurong Point sees a higher proportion of female shoppers, while Centrepoint and Hougang Mall have a more balanced gender mix.</li>
+  <li>🧬 <strong>Race Composition:</strong> Chinese consumers form the majority across all malls.</li>
+  <li>🎂 <strong>Age Profile:</strong> Median shopper age ranges from late 30s to early 40s across all malls, indicating a consistent, middle-aged customer base with minimal outliers.</li>
+  <li>🏪 <strong>Store Popularity:</strong> Hougang Mall has a dominant anchor store (SK Jewellery).</li>
 </ul>
 
 <h2>✅ Conclusion</h2>
