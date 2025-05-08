@@ -32,13 +32,26 @@ permalink: /projects/
   color: #555;
   margin-bottom: 0.5rem;
 }
+.view-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.view-button:hover {
+  background-color: #0056b3;
+}
 </style>
 
 <div class="project-grid">
 
 <!-- Tourism Forecasting -->
 <div class="project-card">
-  <img src="/assets/images/tourism_forecast.png" alt="Tourism Forecasting Graph">
+  <img src="{{ site.baseurl }}/assets/images/tourism_forecast.png" alt="Tourism Forecasting Graph">
   <div class="project-title">Forecasting International Tourism with R</div>
   <div class="project-tools">Tools: R, ggplot2, forecast, tseries, tidyverse</div>
   <p>
@@ -46,12 +59,12 @@ permalink: /projects/
     Models used include ETS (e.g., Winters method), ARIMA, moving average, and linear regression. I also performed residual diagnostics, 
     stationarity checks (ADF test), and compared model accuracy using MAPE, MAD, MSD, and AIC.
   </p>
-  <p><em>Screenshots shown only; full report available upon request.</em></p>
+  <a href="{{ site.baseurl }}/projects/tourism-forecast/" class="view-button">View Plots & Details</a>
 </div>
 
 <!-- Workato Automation -->
 <div class="project-card">
-  <img src="/assets/images/workato_automation.png" alt="Workato Recipe Screenshot">
+  <img src="{{ site.baseurl }}/assets/images/workato_automation.png" alt="Workato Recipe Screenshot">
   <div class="project-title">Automating Telco Fault Alerts with Workato</div>
   <div class="project-tools">Tools: Workato, Google Sheets, Salesforce, GenAI, Telegram</div>
   <p>
@@ -59,12 +72,12 @@ permalink: /projects/
     storing it in a data lake (Google Sheets), generating alerts via GenAI, and pushing notifications to users through Telegram. 
     Demonstrated real-time integration across CRM and support channels.
   </p>
-  <p><em>Demo available upon request or during interview.</em></p>
+  <a href="{{ site.baseurl }}/projects/workato-automation/" class="view-button">View Demo & Details</a>
 </div>
 
 <!-- UiPath RPA -->
 <div class="project-card">
-  <img src="/assets/images/uipath_rpa.png" alt="UiPath Flowchart Screenshot">
+  <img src="{{ site.baseurl }}/assets/images/uipath_rpa.png" alt="UiPath Flowchart Screenshot">
   <div class="project-title">Customer Service Workflow Automation in UiPath</div>
   <div class="project-tools">Tools: UiPath Studio, Excel, Outlook, Decision Tree Logic</div>
   <p>
@@ -72,7 +85,7 @@ permalink: /projects/
     and routes them accordingly — reducing manual sorting and improving response times. 
     I created a reusable automation flow and tested it with mock data.
   </p>
-  <p><em>Screenshots only; logic file available upon request.</em></p>
+  <a href="{{ site.baseurl }}/projects/uipath-rpa/" class="view-button">View Logic & Details</a>
 </div>
 
 </div>
