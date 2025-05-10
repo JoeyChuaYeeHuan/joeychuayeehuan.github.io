@@ -1,6 +1,71 @@
-# Joey Chua Yee Huan
+<!-- Navigation Bar -->
+<style>
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f4f4f4;
+    padding: 1rem 2rem;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
 
-**Final-year Analytics Student**
+  .navbar h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+  }
+
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar ul li {
+    display: inline;
+  }
+
+  .navbar ul li a {
+    text-decoration: none;
+    color: #007acc;
+    font-weight: 500;
+  }
+
+  .navbar ul li a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 600px) {
+    .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .navbar ul {
+      flex-direction: column;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+  }
+</style>
+
+<div class="navbar">
+  <h1>Joey Chua</h1>
+  <ul>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#teaching-vision">Teaching Vision</a></li>
+    <li><a href="#about-me">About Me</a></li>
+  </ul>
+</div>
+
+<h2 style="margin-top: 2rem;">Joey Chua Yee Huan</h2>
+<p><strong>Final-year Analytics Student</strong></p>
 
 I am a final-year graduate student at the Singapore University of Social Sciences (SUSS), pursuing a Master in Analytics and Visualization (MAVI). I specialize in applied learning with R, Python, SQL, and automation tools such as UiPath, ServiceNow, and Workato—equipping myself to solve real-world digital challenges in business and analytics.
 
@@ -8,12 +73,19 @@ My current interests lie in data integration, business automation, and predictiv
 
 ---
 
-## 🔍 Highlights
+<section id="projects" style="margin-top: 3rem;">
+  <h2>📁 Projects</h2>
+  <p>Explore selected analytics, automation, and visualization projects I've worked on.</p>
+  <ul>
+    <li><a href="https://joeychuayeehuan.github.io/ANL501-ECA_Project/" target="_blank">Analytics Project Showcase</a></li>
+    <!-- Add more project links here -->
+  </ul>
+</section>
 
-- 📊 [Analytics Project Showcase](https://joeychuayeehuan.github.io/ANL501-ECA_Project/)
-
-Discover how I apply digital skills to real-world challenges and academic research:  
-👉 [Projects](projects.html) | [Teaching Vision](#teaching-vision) | [About Me](#about-me)
+<p style="margin-top: 2rem;">
+  Discover how I apply digital skills to real-world challenges and academic research:  
+  👉 <a href="#projects">Projects</a> | <a href="#teaching-vision">Teaching Vision</a> | <a href="#about-me">About Me</a>
+</p>
 
 ---
 
