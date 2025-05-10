@@ -1,3 +1,69 @@
+<!-- Navigation Bar -->
+<style>
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f4f4f4;
+    padding: 1rem 2rem;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+
+  .navbar h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+  }
+
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar ul li {
+    display: inline;
+  }
+
+  .navbar ul li a {
+    text-decoration: none;
+    color: #007acc;
+    font-weight: 500;
+  }
+
+  .navbar ul li a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 600px) {
+    .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .navbar ul {
+      flex-direction: column;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+  }
+</style>
+
+<div class="navbar">
+  <h1>Joey Chua</h1>
+  <ul>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#teaching-vision">Teaching Vision</a></li>
+    <li><a href="#about-me">About Me</a></li>
+  </ul>
+</div>
+
 # Joey Chua Yee Huan
 
 **Final-year Analytics Student**
@@ -49,7 +115,7 @@ Discover how I apply digital skills to real-world challenges and academic resear
   </p>
   <p>
     These experiences taught me the value of process efficiency, stakeholder engagement, and data integrity. 
-    My exposure to financial operations, MIS reporting, and automation (e.g., SAP GL, Robotic Process Automation tools) inspired me to pursue my Master in Analytics and Visualization (MAVI) at the Singapore University of Social Sciences, where I am currently on track to graduate with First Class Honours. 
+    My exposure to financial operations, MIS reporting, and automation (e.g., SAP GL, Robotic Process Automation tools) inspired me to pursue my Master in Analytics and Visualization (MAVI) at the Singapore University of Social Sciences, where I am currently achieving First Class Honours. 
   </p>
   <p>
     I now specialize in applied analytics using R, Python, SQL, and automation platforms like UiPath, ServiceNow, and Workato—and have applied them across multiple high-distinction academic and capstone projects. 
