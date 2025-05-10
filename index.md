@@ -58,12 +58,13 @@
 <div class="navbar">
   <h1>Joey Chua</h1>
   <ul>
-    <li><a href="#projects">Projects</a></li>
+    <li><a href="#highlights">Highlights</a></li>
     <li><a href="#teaching-vision">Teaching Vision</a></li>
     <li><a href="#about-me">About Me</a></li>
   </ul>
 </div>
 
+<!-- Main Title and Intro -->
 <h2 style="margin-top: 2rem;">Joey Chua Yee Huan</h2>
 <p><strong>Final-year Analytics Student</strong></p>
 
@@ -71,16 +72,14 @@ I am a final-year graduate student at the Singapore University of Social Science
 
 My current interests lie in data integration, business automation, and predictive analytics. I’ve worked on real-world projects involving time series forecasting, customer segmentation, and workflow automation using platforms like Workato and UiPath. This GitHub page showcases selected projects that reflect my skills in analytical thinking, data storytelling, and building scalable digital solutions.
 
----
 
-## 🔍 Highlights
-
-- 📊 [Analytics Project Showcase](https://joeychuayeehuan.github.io/ANL501-ECA_Project/)
-
-Discover how I apply digital skills to real-world challenges and academic research:  
-👉 [Projects](projects.html) | [Teaching Vision](#teaching-vision) | [About Me](#about-me)
-
----
+<!-- 🔍 HIGHLIGHTS Section -->
+<section id="highlights" style="margin-top: 3rem;">
+  <h2>🔍 Highlights</h2>
+  <ul>
+    <li>📊 <a href="https://joeychuayeehuan.github.io/ANL501-ECA_Project/" target="_blank">Analytics Project Showcase</a></li>
+  </ul>
+</section>
 
 <!-- Teaching Vision Section -->
 <section id="teaching-vision" style="margin-top: 3rem;">
