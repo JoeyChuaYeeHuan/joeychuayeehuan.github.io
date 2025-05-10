@@ -73,19 +73,12 @@ My current interests lie in data integration, business automation, and predictiv
 
 ---
 
-<section id="projects" style="margin-top: 3rem;">
-  <h2>📁 Projects</h2>
-  <p>Explore selected analytics, automation, and visualization projects I've worked on.</p>
-  <ul>
-    <li><a href="https://joeychuayeehuan.github.io/ANL501-ECA_Project/" target="_blank">Analytics Project Showcase</a></li>
-    <!-- Add more project links here -->
-  </ul>
-</section>
+## 🔍 Highlights
 
-<p style="margin-top: 2rem;">
-  Discover how I apply digital skills to real-world challenges and academic research:  
-  👉 <a href="#projects">Projects</a> | <a href="#teaching-vision">Teaching Vision</a> | <a href="#about-me">About Me</a>
-</p>
+- 📊 [Analytics Project Showcase](https://joeychuayeehuan.github.io/ANL501-ECA_Project/)
+
+Discover how I apply digital skills to real-world challenges and academic research:  
+👉 [Projects](projects.html) | [Teaching Vision](#teaching-vision) | [About Me](#about-me)
 
 ---
 
