@@ -7,11 +7,11 @@ permalink: /projects/anl503-data-wrangling/
 <h1>🛍️ Shopper Profile Analysis Across Malls</h1>
 
 <p style="font-style: italic; color: #555;">
-Final Grade: <strong>A</strong> | ANL503 – Data Wrangling & Reporting (SUSS)
+Final Grade: <strong>A</strong> | ANL503 – Data Wrangling (SUSS)
 </p>
 
 <p>
-This project was developed as part of the <strong>ANL503 Data Wrangling and Reporting</strong> module at SUSS. It showcases an end-to-end data preparation and reporting solution using <strong>Python, MySQL, R, and ggplot2</strong>. 
+This project was developed as part of the <strong>ANL503 Data Wrangling</strong> module at SUSS. It showcases an end-to-end data preparation and reporting solution using <strong>Python, MySQL, R, and ggplot2</strong>. 
 I analyzed shopper demographics and behavior across 6 major malls, producing visual dashboards to help the client understand audience profiles and footfall trends.
 </p>
 
